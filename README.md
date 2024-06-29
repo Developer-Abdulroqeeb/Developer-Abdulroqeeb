@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm LARGTECH </h1>
-<h3 align="center">Experienced Front-End Developer with a passion for crafting responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and modern frameworks like React. Skilled in translating designs into pixel-perfect code while ensuring cross-browser compatibility and performance optimization. Collaborative team player with excellent communication skills and a strong desire to learn and grow in the ever-evolving field of web development</h3>
+<h3 align="center">Experienced Front-End Developer with a passion for crafting responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and modern framework React. Skilled in translating designs into pixel-perfect code while ensuring cross-browser compatibility and performance optimization. Collaborative team player with excellent communication skills and a strong desire to learn and grow in the ever-evolving field of web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-abdulroqeeb&label=Profile%20views&color=0e75b6&style=flat" alt="developer-abdulroqeeb" /> </p>
 
