@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **School management system**
 
-- 💬 Ask me about **HTML, CSS, JS,**
+- 💬 Ask me about **HTML, CSS, JS, PHP**
 
 - 📫 How to reach me **lawalabdulroqeeb54@gmail.com**
 
