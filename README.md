@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Booking website**
 
-- 🌱 I’m currently learning **JS framework**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **School management system**
 
