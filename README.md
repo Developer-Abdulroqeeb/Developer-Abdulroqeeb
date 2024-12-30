@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/largtech" target="blank"><img src="https://img.shields.io/twitter/follow/largtech?logo=twitter&style=for-the-badge" alt="largtech" /></a> </p>
 
-- 🔭 I’m currently working on **Social Media Web Appliation**
+- 🔭 I’m currently working on **RESTAURANT MANAGEMENT SYSTEM**
 
 - 🌱 I’m currently learning **PHP**
 
