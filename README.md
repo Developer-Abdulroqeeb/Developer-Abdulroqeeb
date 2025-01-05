@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **RESTAURANT MANAGEMENT SYSTEM**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **LARAVEL**
 
-- 👯 I’m looking to collaborate on **School management system**
+- 👯 I’m looking to collaborate on **Any Available Project**
 
 - 💬 Ask me about **HTML, CSS, JS, PHP**
 
