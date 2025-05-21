@@ -1,11 +1,16 @@
 <h1 align="center">Hello 👋, I'm LARGTECH </h1>
-<h3 align="center">Experienced Fullstack Developer with a passion for crafting responsive and user-friendly websites. Proficient in HTML5, CSS3, JavaScript/AJAX, and modern framework React and also PHP. Skilled in translating designs into pixel-perfect code while ensuring cross-browser compatibility and performance optimization. Collaborative team player with excellent communication skills and a strong desire to learn and grow in the ever-evolving field of web development</h3>
+<h3 align="center">🚀 Experienced Fullstack Developer with a passion for crafting responsive, user-friendly websites that not only look great but perform seamlessly.
+💻 Proficient in HTML5, CSS3, JavaScript/AJAX, PHP, and the Laravel framework.
+🔌 Experienced in building and integrating RESTful APIs to enable dynamic, data-driven functionality.
+🎯 Skilled at turning designs into pixel-perfect, cross-browser-compatible code with a focus on performance and clean architecture.
+🤝 A collaborative team player with strong communication skills, a proactive mindset, and a genuine love for learning.
+🌱 Always exploring new tools, techniques, and technologies to stay ahead in the ever-evolving world of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-abdulroqeeb&label=Profile%20views&color=0e75b6&style=flat" alt="developer-abdulroqeeb" /> </p>
 
 <p align="left"> <a href="https://twitter.com/largtech" target="blank"><img src="https://img.shields.io/twitter/follow/largtech?logo=twitter&style=for-the-badge" alt="largtech" /></a> </p>
 
-- 🔭 I’m currently working on **RESTAURANT MANAGEMENT SYSTEM**
+- 🔭 I’m currently working on **School Management System**
 
 - 🌱 I’m currently learning **LARAVEL**
 
