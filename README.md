@@ -1,10 +1,13 @@
 <h1 align="center">Hello 👋, I'm LARGTECH </h1>
-<h3 align="center">🚀 Experienced Fullstack Developer with a passion for crafting responsive, user-friendly websites that not only look great but perform seamlessly.
-💻 Proficient in HTML5, CSS3, JavaScript/AJAX, PHP, and the Laravel framework.
-🔌 Experienced in building and integrating RESTful APIs to enable dynamic, data-driven functionality.
-🎯 Skilled at turning designs into pixel-perfect, cross-browser-compatible code with a focus on performance and clean architecture.
-🤝 A collaborative team player with strong communication skills, a proactive mindset, and a genuine love for learning.
-🌱 Always exploring new tools, techniques, and technologies to stay ahead in the ever-evolving world of web development.</h3>
+<h3 align="center">🚀 Fullstack Developer passionate about building responsive, user-friendly websites that look great and run smoothly.
+
+💻 Proficient in HTML5, CSS3, JavaScript/AJAX, PHP, and Laravel, with strong experience in creating and integrating RESTful APIs to deliver dynamic, data-driven applications.
+
+🎯 Dedicated to writing clean, scalable, and efficient code, with a focus on performance, usability, and cross-browser compatibility.
+
+🤝 A collaborative team player with strong communication skills and a proactive mindset—always ready to contribute ideas and support the team.
+
+🌱 Continuously learning and exploring new tools, frameworks, and best practices to stay ahead in the fast-changing world of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-abdulroqeeb&label=Profile%20views&color=0e75b6&style=flat" alt="developer-abdulroqeeb" /> </p>
 
