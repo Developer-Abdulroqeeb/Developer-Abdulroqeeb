@@ -13,13 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/largtech" target="blank"><img src="https://img.shields.io/twitter/follow/largtech?logo=twitter&style=for-the-badge" alt="largtech" /></a> </p>
 
-- 🔭 I’m currently working on **School Management System**
-
-- 🌱 I’m currently learning **LARAVEL**
+- 🔭 I’m currently working on **Inventory Management System**
 
 - 👯 I’m looking to collaborate on **Any Available Project**
 
-- 💬 Ask me about **HTML, CSS, JS, PHP**
+- 💬 Ask me about **Laravel, Mysqli, JS, PHP**
 
 - 📫 How to reach me **lawalabdulroqeeb54@gmail.com**
 
