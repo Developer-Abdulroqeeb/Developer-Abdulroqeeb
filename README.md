@@ -98,7 +98,7 @@ const LARGTECH = {
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://web.facebook.com/itzmhitz.gbolly" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61580894084392" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
