@@ -93,10 +93,7 @@ const LARGTECH = {
 <a href="https://twitter.com/largtech" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://linkedin.com/in/lawal-abdulroqeeb" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 &nbsp;
 <a href="https://www.facebook.com/profile.php?id=61580894084392" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
