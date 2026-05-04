@@ -1,36 +1,129 @@
-<h1 align="center">Hello 👋, I'm LARGTECH </h1>
-<h3 align="center">🚀 Fullstack Developer passionate about building responsive, user-friendly websites that look great and run smoothly.
+<div align="center">
 
-💻 Proficient in HTML5, CSS3, JavaScript/AJAX, PHP, and Laravel, with strong experience in creating and integrating RESTful APIs to deliver dynamic, data-driven applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=LARGTECH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%7C%20PHP%20%7C%20JavaScript&descAlignY=55&descAlign=50" />
 
-🎯 Dedicated to writing clean, scalable, and efficient code, with a focus on performance, usability, and cross-browser compatibility.
+</div>
 
-🤝 A collaborative team player with strong communication skills and a proactive mindset—always ready to contribute ideas and support the team.
+---
 
-🌱 Continuously learning and exploring new tools, frameworks, and best practices to stay ahead in the fast-changing world of web development.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-abdulroqeeb&label=Profile%20views&color=0e75b6&style=flat" alt="developer-abdulroqeeb" /> </p>
+<img src="https://komarev.com/ghpvc/?username=developer-abdulroqeeb&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://twitter.com/largtech">
+  <img src="https://img.shields.io/twitter/follow/largtech?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/largtech" target="blank"><img src="https://img.shields.io/twitter/follow/largtech?logo=twitter&style=for-the-badge" alt="largtech" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **Inventory Management System**
+---
 
-- 👯 I’m looking to collaborate on **Any Available Project**
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Laravel, Mysqli, JS, PHP**
+```javascript
+const LARGTECH = {
+  name:       "Lawal Abdulroqeeb",
+  role:       "Fullstack Developer",
+  location:   "Nigeria 🇳🇬",
+  email:      "lawalabdulroqeeb54@gmail.com",
+  focus:      ["Clean Code", "Scalable APIs", "Great UX"],
+  currentWork: "Inventory Management System",
+  openTo:     "Collaborations & Freelance Projects",
+  askMeAbout: ["Laravel", "PHP", "JavaScript", "MySQL", "REST APIs","React.js"],
+};
+```
 
-- 📫 How to reach me **lawalabdulroqeeb54@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/largtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="largtech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Lawal Abdulroqeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lawal" height="30" width="40" /></a>
-<a href="https://web.facebook.com/itzmhitz.gbolly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+## 🚀 What I Do
+
+- 🔧 Build **fullstack web applications** from database to UI
+- ⚡ Design and integrate **RESTful APIs** for dynamic, data-driven apps
+- 🎨 Craft **responsive, cross-browser compatible** interfaces
+- 🔐 Implement **secure authentication** systems and payment integrations
+- 📦 Write **clean, scalable, maintainable** code that teams love
+- 🌱 Always learning — staying ahead in the fast-moving dev world
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-abdulroqeeb&show_icons=true&locale=en&layout=compact" alt="developer-abdulroqeeb" /></p>
+### Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-abdulroqeeb&" alt="developer-abdulroqeeb" /></p>
+### Payments & Integrations
+<p>
+  <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=developer-abdulroqeeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-abdulroqeeb&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-abdulroqeeb&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:lawalabdulroqeeb54@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://twitter.com/largtech" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/lawal-abdulroqeeb" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://web.facebook.com/itzmhitz.gbolly" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
+
+</div>
