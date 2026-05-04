@@ -70,7 +70,7 @@ const LARGTECH = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+
 </p>
 
 ### Payments & Integrations
@@ -81,22 +81,6 @@ const LARGTECH = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=developer-abdulroqeeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-abdulroqeeb&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-abdulroqeeb&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
