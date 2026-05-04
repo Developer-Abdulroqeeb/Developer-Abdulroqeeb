@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=LARGTECH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%7C%20PHP%20%7C%20JavaScript&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=LARGTECH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%7C%20PHP%20%7C%20React.js&descAlignY=55&descAlign=50" />
 
 </div>
 
@@ -27,7 +27,7 @@ const LARGTECH = {
   location:   "Nigeria 🇳🇬",
   email:      "lawalabdulroqeeb54@gmail.com",
   focus:      ["Clean Code", "Scalable APIs", "Great UX"],
-  currentWork: "Inventory Management System",
+  currentWork: "e-commerce(LARGMART)",
   openTo:     "Collaborations & Freelance Projects",
   askMeAbout: ["Laravel", "PHP", "JavaScript", "MySQL", "REST APIs","React.js"],
 };
