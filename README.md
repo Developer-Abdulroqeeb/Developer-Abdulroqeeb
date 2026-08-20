@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=LARGTECH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%7C%20PHP%20%7C%20React&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=LARGTECH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%7C%20PHP%20%7C%20Java&descAlignY=55&descAlign=50" />
 
 </div>
 
@@ -27,9 +27,9 @@ const LARGTECH = {
   location:   "Nigeria 🇳🇬",
   email:      "lawalabdulroqeeb54@gmail.com",
   focus:      ["Clean Code", "Scalable APIs", "Great UX"],
-  currentWork: "e-commerce(LARGMART)",
+  currentWork: "e-commerce(MarketPro)",
   openTo:     "Collaborations & Freelance Projects",
-  askMeAbout: ["Laravel", "PHP", "JavaScript", "MySQL", "REST APIs","React.js"],
+  askMeAbout: ["Laravel", "PHP", "JavaScript", "MySQL", "REST APIs","Java"],
 };
 ```
 
@@ -37,12 +37,12 @@ const LARGTECH = {
 
 ## 🚀 What I Do
 
-- 🔧 Build **fullstack web applications** from database to UI
-- ⚡ Design and integrate **RESTful APIs** for dynamic, data-driven apps
-- 🎨 Craft **responsive, cross-browser compatible** interfaces
-- 🔐 Implement **secure authentication** systems and payment integrations
-- 📦 Write **clean, scalable, maintainable** code that teams love
-- 🌱 Always learning — staying ahead in the fast-moving dev world
+- Build **fullstack web applications** from database to UI
+- Design and integrate **RESTful APIs** for dynamic, data-driven apps
+- Craft **responsive, cross-browser compatible** interfaces
+- Implement **secure authentication** systems and payment integrations
+- Write **clean, scalable, maintainable** code that teams love
+- Always learning — staying ahead in the fast-moving dev world
 
 ---
 
@@ -54,6 +54,7 @@ const LARGTECH = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=Java&logoColor=white" />
 </p>
 
 ### Frameworks & Libraries
