@@ -29,7 +29,7 @@ const LARGTECH = {
   focus:      ["Clean Code", "Scalable APIs", "Great UX"],
   currentWork: "e-commerce(MarketPro)",
   openTo:     "Collaborations & Freelance Projects",
-  askMeAbout: ["Laravel", "PHP", "JavaScript", "MySQL", "REST APIs","Java"],
+  askMeAbout: ["Laravel", "PHP", "JavaScript", "MySQL", "REST APIs","System Design"],
 };
 ```
 
